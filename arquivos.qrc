@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Arquivos/data.png</file>
+        <file>Arquivos/status.png</file>
+        <file>Arquivos/subtotal.png</file>
+        <file>Arquivos/mais.png</file>
+        <file>Arquivos/Header.jpg</file>
+        <file>Arquivos/Body.png</file>
+    </qresource>
+</RCC>
